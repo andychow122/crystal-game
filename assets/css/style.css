@@ -1,0 +1,35 @@
+div.jumbotron {
+	background-color: darkolivegreen;
+	color: white;
+}
+
+#header {
+	text-align: center;
+}
+/*
+body {
+	background-color: lightyellow;
+}*/
+
+img {
+	height: 100px;
+	width: 70px;
+	text-align: center;
+}
+
+#wins {
+	font-weight: bold;
+}
+
+#losses {
+	font-weight: bold;
+}
+
+/*#instructions {
+	margin-left: 20px;
+	margin-right: 20px;
+}*/
+
+.pizza {
+	background-color: khaki;
+}
